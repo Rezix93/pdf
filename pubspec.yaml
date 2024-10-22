@@ -1,0 +1,21 @@
+name: my_pdf_project
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you plan to publish the project
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  pdf: ^3.6.0
+  file_picker: ^5.0.1
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
