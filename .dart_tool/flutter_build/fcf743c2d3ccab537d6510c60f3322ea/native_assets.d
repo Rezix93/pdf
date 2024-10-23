@@ -1,0 +1,1 @@
+ /Users/niloofarbarzegar/Desktop/Rezox/pdf/.dart_tool/flutter_build/fcf743c2d3ccab537d6510c60f3322ea/native_assets.yaml: 
